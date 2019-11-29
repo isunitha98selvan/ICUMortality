@@ -1,0 +1,12 @@
+stay,prediction,y_true
+10011_episode1_timeseries.csv,0.477007,1
+10026_episode1_timeseries.csv,0.486526,0
+10042_episode1_timeseries.csv,0.501205,0
+10094_episode1_timeseries.csv,0.411253,0
+10094_episode2_timeseries.csv,0.400983,1
+10102_episode1_timeseries.csv,0.376824,1
+40310_episode1_timeseries.csv,0.501362,1
+40612_episode1_timeseries.csv,0.469441,0
+42135_episode2_timeseries.csv,0.587331,1
+44083_episode2_timeseries.csv,0.404626,0
+44083_episode3_timeseries.csv,0.510763,0
